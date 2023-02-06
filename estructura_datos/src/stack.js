@@ -21,7 +21,7 @@ class Stack {
             this.bottom = null
             this.length = 0
             return this
-        } else {
+        } else { 
             const holdingPointer = this.top.next
             this.top = holdingPointer
             this.length++
