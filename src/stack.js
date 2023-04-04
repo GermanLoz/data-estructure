@@ -43,7 +43,3 @@ class Stack {
         return this
     }
 }
-
-const myStack = new Stack()
-myStack.push(1)
-console.log(myStack)
