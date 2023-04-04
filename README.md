@@ -1,4 +1,4 @@
-# DATA STRUCTURE WHIT JS
+# DATA STRUCTURE WITH JS
 
 ## Getting Started
 
